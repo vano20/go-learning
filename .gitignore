@@ -1,0 +1,8 @@
+*.key
+*.pem
+*.o
+.DS_Store
+.idea
+-trash
+/expert/*
+/advanced/*
